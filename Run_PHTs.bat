@@ -1,1 +1,1 @@
-PHTs ColorImageReadWrite_Soccer_280 1
+PHTs ColorImageReadWrite 1 7
