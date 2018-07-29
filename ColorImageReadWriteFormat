@@ -1,0 +1,4 @@
+TotalNumberOfImage TotalNumberofClasses NumberofImagesPerClass i.e., 2 1 2
+ImageNumber ImageName ClassNumber ImageNumberInClass i.e., 1 01.jpg 1 1
+Rows Columns i.e., 273 400
+R G B R G B R G B ... i.e., pixel values
